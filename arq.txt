@@ -1,0 +1,2 @@
+store = 
+slice = coleçaõ de logicas de reducers e actions para features
